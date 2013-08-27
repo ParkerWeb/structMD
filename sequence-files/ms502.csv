@@ -1,0 +1,13 @@
+Filename,Page,Side,Label
+502_fob.tif,fob,,Front outside binding
+502_fib.tif,fib,,Front inside binding
+502_a_R.tif,a,R,f. a R
+502_a_V.tif,a,V,f. a V,"Partially imaged manuscript, this folio will not be imaged."
+502_b_R.tif,b,R,f. b R
+502_b_V.tif,b,V,f. b V,"Partially imaged manuscript, this folio will not be imaged."
+502_bib.tif,bib,,Back inside binding,"Partially imaged manuscript, this folio will not be imaged."
+502_bob.tif,bob,,Back outside binding
+502_SPN.tif,spn,,Spine
+502_TFE.tif,tfe,,Top edge
+502_SFE.tif,sfe,,Foredge
+502_BFE.tif,bfe,,Bottom edge

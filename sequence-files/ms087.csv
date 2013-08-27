@@ -1,0 +1,45 @@
+Filename,Page,Side,Label
+087_fob.tif,fob,,Front outside binding
+087_fib.tif,fib,,Front inside binding
+087_001_R.tif,1,R,f. 001 R
+087_001_V.tif,1,V,f. 001 V
+087_002_R.tif,2,R,f. 002 R
+087_002_V.tif,2,V,f. 002 V
+087_003_R.tif,3,R,f. 003 R
+087_003_V.tif,3,V,f. 003 V
+087_004_R.tif,4,R,f. 004 R
+087_004_V.tif,4,V,f. 004 V
+087_005_R.tif,5,R,f. 005 R
+087_005_V.tif,5,V,f. 005 V
+087_006_R.tif,6,R,f. 006 R
+087_006_V.tif,6,V,f. 006 V
+087_007_R.tif,7,R,f. 007 R
+087_007_V.tif,7,V,f. 007 V
+087_008_R.tif,8,R,f. 008 R
+087_008_V.tif,8,V,f. 008 V
+087_009_R.tif,9,R,f. 009 R
+087_009_V.tif,9,V,f. 009 V
+087_010_R.tif,10,R,f. 010 R
+087_010_V.tif,10,V,f. 010 V
+087_011_R.tif,11,R,f. 011 R
+087_011_V.tif,11,V,f. 011 V
+087_012_R.tif,12,R,f. 012 R
+087_012_V.tif,12,V,f. 012 V
+087_013_R.tif,13,R,f. 013 R
+087_013_V.tif,13,V,f. 013 V
+087_014_R.tif,14,R,f. 014 R
+087_014_V.tif,14,V,f. 014 V
+087_015_R.tif,15,R,f. 015 R
+087_015_V.tif,15,V,f. 015 V
+087_016_R.tif,16,R,f. 016 R
+087_016_V.tif,16,V,f. 016 V
+087_017_R.tif,17,R,f. 017 R
+087_017_V.tif,17,V,f. 017 V,folio side exists but is not able to be imaged
+087_136_R.tif,136,R,f. 136 R
+087_136_V.tif,136,V,f. 136 V,folio side exists but is not able to be imaged
+087_bib.tif,bib,,Back inside binding
+087_bob.tif,bob,,Back outside binding
+087_SPN.tif,spn,,Spine
+087_TFE.tif,tfe,,Top edge
+087_SFE.tif,sfe,,Foredge
+087_BFE.tif,bfe,,Bottom edge

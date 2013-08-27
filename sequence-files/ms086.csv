@@ -1,0 +1,17 @@
+Filename,Page,Side,Label
+086_fob.tif,fob,,Front outside binding
+086_fib.tif,fib,,Front inside binding
+086_001_R.tif,1,R,f. 001 R
+086_001_V.tif,1,V,f. 001 V
+086_002_R.tif,2,R,f. 002 R
+086_002_V.tif,2,V,f. 002 V
+086_003_R.tif,3,R,f. 003 R
+086_003_V.tif,3,V,f. 003 V
+086_004_R.tif,4,R,f. 004 R
+086_004_V.tif,4,V,f. 004 V
+086_bib.tif,bib,,Back inside binding
+086_bob.tif,bob,,Back outside binding
+086_SPN.tif,spn,,Spine
+086_TFE.tif,tfe,,Top edge
+086_SFE.tif,sfe,,Foredge
+086_BFE.tif,bfe,,Bottom edge

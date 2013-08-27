@@ -1,0 +1,11 @@
+Filename,Page,Side,Label
+525_fob.tif,fob,,Front outside binding
+525_fib.tif,fib,,Front inside binding,"Partially imaged manuscript, the front inside binding will not be imaged"
+525_a_R.tif,a,R,f. a R
+525_a_V.tif,a,V,f. a V,"Partially imaged manuscript, this folio will not be imaged"
+525_bib.tif,bib,,Back inside binding,"Partially imaged manuscript, this folio will not be imaged"
+525_bob.tif,bob,,Back outside binding
+525_SPN.tif,spn,,Spine
+525_TFE.tif,tfe,,Top edge
+525_SFE.tif,sfe,,Foredge
+525_BFE.tif,bfe,,Bottom edge
